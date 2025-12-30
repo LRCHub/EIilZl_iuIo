@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "WINTER WITHOUT YOU",
+  "base_artist": "XG",
+  "createdAt": "2025-12-30T03:19:39.333635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WINTER WITHOUT YOU",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/01_WINTER_WITHOUT_YOU_XG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WINTER WITHOUT YOU",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/02_WINTER_WITHOUT_YOU_XG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another Winter Without You",
+      "artist": "Lorrie Morgan",
+      "has_synced": false,
+      "path": "select/03_Another_Winter_Without_You_Lorrie_Morgan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Winter Without You",
+      "artist": "Gloria Kim",
+      "has_synced": true,
+      "path": "select/04_Winter_Without_You_Gloria_Kim.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Winter Without You",
+      "artist": "Gloria Kim",
+      "has_synced": true,
+      "path": "select/05_Winter_Without_You_Gloria_Kim.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WINTER WITHOUT YOU | Hippopcharts.com",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/06_WINTER_WITHOUT_YOU___Hippopcharts.com_XG.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Another Winter Without You",
+      "artist": "Morgan, Lorrie",
+      "has_synced": false,
+      "path": "select/07_Another_Winter_Without_You_Morgan,_Lorrie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Winter Without You",
+      "artist": "Kid Dakota",
+      "has_synced": false,
+      "path": "select/08_The_Winter_Without_You_Kid_Dakota.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WINTER WITHOUT YOU & MASCARA - XG 1st WORLD TOUR “The first HOWL” Live",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/09_WINTER_WITHOUT_YOU_&_MASCARA_-_XG_1st_WORLD_TOUR_“The_first_HOWL”_Live_XG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WINTER WITHOUT YOU",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_WINTER_WITHOUT_YOU_XG.txt"
+    }
+  ]
+}
